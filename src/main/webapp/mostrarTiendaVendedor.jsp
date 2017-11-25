@@ -132,6 +132,7 @@
                 <nav>
                     <ul>
                         <li style="background-color: #087eac;" class="sin"><a href="mostrarProductosBodega.jsp">Ver Mis Productos</a></li>
+                        <li style="background-color: #087eac;" class="sin"><a href="ListarPedidos.jsp">Ver Mis Pedidos</a></li>
                         <li style="background-color: #fff" class="sin"><a href="editarTienda.jsp" id="menu">Editar Mi Tienda</a></li>
                         <li style="background-color: #e30020" class="sin"><div onclick='cerrarSesion()' style="cursor: pointer" id="out"><a>Cerrar Sesion</a></div></li>
                     </ul>

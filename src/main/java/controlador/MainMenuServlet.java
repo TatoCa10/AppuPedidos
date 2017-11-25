@@ -73,9 +73,7 @@ public class MainMenuServlet extends HttpServlet {
 //             ArrayList<ProductoVO> Carro = new Gson().fromJson(CarroSesion, ArrayList.class);
             
 
-            String P = "";
-
-            P = request.getParameter("opcion");
+            String P  = request.getParameter("opcion");
 
             System.out.println("InfoCarro:"+P);
             
